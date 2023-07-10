@@ -205,17 +205,17 @@
   height: 300px;
   border-radius: 8px;
   margin: -220px;
-  margin-left: 151px;
+  margin-left: 154px;
   background-repeat: no-repeat;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding-top: 70px;
+  padding-top: 80px;
   padding-left: 50px;
 }
 .input {
   width: 600px;
-  height: 40px;
+  height: 45px;
   border: none;
   border-radius: 8px;
   background: #fff;
@@ -223,9 +223,16 @@
   font-size: 16px;
   font-weight: 400;
   margin-left: 200px;
-  padding-top: 15px;
+  padding-top: 20px;
   padding-left: 20px;
+  margin-right: 5px;
+  background-color: transparent;
 }
 .sub-btn {
-  margin-right: 140px;
+  margin-right: 145px;
+  width: 170px;
+  height: 60px;
+}
+.sub-section {
+  padding: 50px 0px;
 }
