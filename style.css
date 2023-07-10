@@ -241,3 +241,32 @@
 .sub-section {
   padding: 50px 0px;
 }
+/* footer */
+footer {
+  margin-top: 280px;
+  background-color: #111010;
+  height: 350px;
+  text-align: center;
+}
+.footer-title {
+  color: white;
+  font-size: 40px;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 50px;
+  margin-bottom: 20px;
+}
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 35px;
+}
+.rights {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
