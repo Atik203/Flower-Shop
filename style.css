@@ -226,12 +226,12 @@
   padding-top: 20px;
   padding-left: 20px;
   margin-right: 5px;
-  background-color: transparent;
 }
 .sub-btn {
   margin-right: 145px;
   width: 170px;
   height: 60px;
+  padding-bottom: 50px;
 }
 .sub-section {
   padding: 50px 0px;
