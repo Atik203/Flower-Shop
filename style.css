@@ -155,8 +155,6 @@
   line-height: 35px;
 }
 /* sign up section */
-.sign-up {
-}
 .sign-up-container {
   background: rgba(229, 84, 115, 0.05);
   display: flex;
@@ -167,8 +165,6 @@
 }
 .sign-info {
   text-align: center;
-}
-.sign-imgage {
 }
 .sign-pic {
   width: 300px;
