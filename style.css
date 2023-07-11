@@ -309,7 +309,7 @@ footer {
   cursor: pointer;
 }
 .bonus-btn:hover {
-  color: rgb(40, 31, 118);
+  color: #000080;
 }
 .bonus-info > h6 {
   color: #111;
