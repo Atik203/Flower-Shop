@@ -278,3 +278,47 @@ footer {
   font-size: 16px;
   font-weight: 400;
 }
+/* Bonus section */
+.bonus {
+  margin: 150px 170px;
+}
+.bonus-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 90px;
+  gap: 20px;
+  text-align: center;
+}
+.bonus-photo {
+  width: 285px;
+  height: 350px;
+  margin-bottom: 20px;
+}
+.bonus-btn {
+  text-align: center;
+  width: 145px;
+  height: 65px;
+  margin-top: 20px;
+  background: #df8fb0;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.bonus-btn:hover {
+  color: rgb(40, 31, 118);
+}
+.bonus-info > h6 {
+  color: #111;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.bonus-info > h5 {
+  color: #111;
+  font-size: 20px;
+  font-size: 18px;
+}
